@@ -8,7 +8,7 @@ I'm especially interested in the intersection of performance, clean architecture
 
 You can also find additional work from my professional roles in these repositories
 
-- GitHub profile from my time at MeKo: [github.com/meko-christian](https://github.com/meko-christian)
-- Projects from a previous role: [github.com/huishu-christian](https://github.com/huishu-christian)
+- GitHub profile for my work at [MeKo](https://www.meko.de/de): [github.com/meko-christian](https://github.com/meko-christian)
+- GitHub profile for my work at my previous employer [HUisHU](https://www.huishu.de): [github.com/huishu-christian](https://github.com/huishu-christian)
 
 Always open to feedback, collaboration, or simply exchanging ideas — feel free to reach out via GitHub issues or messages.
